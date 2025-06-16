@@ -17,5 +17,8 @@
      	
      	<mapping class = "hiber1.hiber1.Employee"/>
      	<mapping class = "hiber1.hiber1.Company"/>
+     	
+     	<mapping class = "hiber1.hiber1.Interview"/>
+     	<mapping class = "hiber1.hiber1.Candidate"/>
     </session-factory>
 </hibernate-configuration>
